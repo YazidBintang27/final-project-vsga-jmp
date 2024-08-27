@@ -1,9 +1,0 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.BookLibrary" parent="Theme.Material3.DayNight">
-        <!-- Customize your light theme here. -->
-         <item name="colorOnBackground">@color/white</item>
-    </style>
-
-    <style name="Theme.BookLibrary" parent="Base.Theme.BookLibrary" />
-</resources>
